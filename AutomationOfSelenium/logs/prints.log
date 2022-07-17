@@ -1,0 +1,4 @@
+01:20:09.149 [main] DEBUG main.Log4JAnotherClass - This is debug
+01:20:09.151 [main] INFO  main.Log4JAnotherClass - This is info
+01:20:09.151 [main] ERROR main.Log4JAnotherClass - This is error
+01:20:09.151 [main] FATAL main.Log4JAnotherClass - This is fatal
